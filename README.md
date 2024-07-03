@@ -140,7 +140,3 @@ If all tests pass successfully, you will see the following result:
 <img width=600 src="./tests/res/tests.png" alt="">    
 
 ---
-
-# Contact
-
-[Email](mailto:haghjouramin@gmail.com)
