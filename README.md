@@ -97,10 +97,7 @@ plt.imshow(img)
 * [app.py](./app.py) - YoloV8 functions     
 * [detection_post.py](detection_post.py) - Object Detection functions   
 * [./models](./models) - YoloV8 models folder    
-
-
-* [docs.postman_collection.json](./docs.postman_collection.json) - Postman Collection for docs API    
-* [Health Check.postman_collection.json](./Health-Check.postman_collection.json) - Postman Collection for Health Check API   
+   
 * [Object Detection.postman_collection.json](./Object-Detection.postman_collection.json) - Postman Collection for Object Detection API    
 
 ---
